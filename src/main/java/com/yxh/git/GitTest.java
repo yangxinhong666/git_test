@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("hot-fix分支修改的内容");
         System.out.println("master分支");
         System.out.println("hot-fix分支");
+        System.out.println("这是我在githup中更新的内容,用于验证是否拉取成功!");
     }
 }
