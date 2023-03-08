@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("证明是第二个版本");
         System.out.println("第三次提交");
         System.out.println("hot-fix分支修改的内容");
+        System.out.println("master分支");
     }
 }
